@@ -40,8 +40,8 @@ CSS_Entregable/
 
 1. **Clonar el repositorio:**
    ```sh
-   git clone https://github.com/Alvaro-Alonso-Portillo/CSS_Entregable_ConquerBlocks.git
-   cd CSS_Entregable_ConquerBlocks
+   git clone https://github.com/Alvaro-Alonso-Portillo/Header-Spa-and-Beauty.git
+   cd Header-Spa-and-Beauty
    ```
 2. **Instalar dependencias (si usas SASS con Node.js):**
    ```sh
